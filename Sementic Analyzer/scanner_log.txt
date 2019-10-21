@@ -1,0 +1,8 @@
+Line No.1 : Token <ID> Lexeme func found
+Line No.1 : Token <LPAREN> Lexeme ( found
+Line No.1 : Token <ID> Lexeme a found
+Line No.1 : Token <RPAREN> Lexeme ) found
+Line No.1 : Token <LCURL> Lexeme { found
+Line No.2 : Token <ID> Lexeme a found
+Line No.2 : Token <SEMICOLON> Lexeme ; found
+Line No.3 : Token <RCURL> Lexeme } found

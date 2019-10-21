@@ -1,0 +1,40 @@
+ Inserted in ScopeTable#1 at position 2 , 0
+Entered into new scope ScopeTable with id 2
+ Inserted in ScopeTable#2 at position 2 , 0
+ Scope : 2
+
+0 --> 
+1 --> 
+2 --> <a,ID,int> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ Scope : 1
+
+0 --> 
+1 --> 
+2 --> <func,ID,int> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ScopeTable with id 2 removed
+ Scope : 1
+
+0 --> 
+1 --> 
+2 --> <func,ID,int> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ Scope : 1
+
+0 --> 
+1 --> 
+2 --> <func,ID,int> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 

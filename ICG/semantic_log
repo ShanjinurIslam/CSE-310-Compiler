@@ -1,0 +1,222 @@
+At line no: 1 type_specifier : INT 
+At line no: 1 type_specifier : INT 
+At line no: 1 parameter_list  : type_specifier ID
+Entered into new scope ScopeTable with id 2
+At line no: 2 variable : ID
+At line no: 2 variable : ID
+At line no: 2 factor : variable
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : term 
+At line no: 2 factor : CONST_INT
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : simple_expression ADDOP term
+At line no: 2 rel_expression : simple_expression
+At line no: 2 logic_expression : rel_expression
+At line no: 2 expression : variable ASSIGNOP logic_expression
+At line no: 2 expression_statement : expression SEMICOLON
+At line no: 2 statement : expression_statement
+At line no: 2 statements : statement
+At line no: 3 variable : ID
+At line no: 3 factor : variable
+At line no: 3 unary_expression : factor
+At line no: 3 term : unary_expression
+At line no: 3 simple_expression : term 
+At line no: 3 rel_expression : simple_expression
+At line no: 3 logic_expression : rel_expression
+At line no: 3 expression : logic_expression
+At line no: 1 type_specifier : INT 
+At line no: 1 type_specifier : INT 
+At line no: 1 parameter_list  : type_specifier ID
+Entered into new scope ScopeTable with id 2
+At line no: 2 variable : ID
+At line no: 2 variable : ID
+At line no: 2 factor : variable
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : term 
+At line no: 2 factor : CONST_INT
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : simple_expression ADDOP term
+At line no: 2 rel_expression : simple_expression
+At line no: 2 logic_expression : rel_expression
+At line no: 2 expression : variable ASSIGNOP logic_expression
+At line no: 2 expression_statement : expression SEMICOLON
+At line no: 2 statement : expression_statement
+At line no: 2 statements : statement
+At line no: 3 variable : ID
+At line no: 3 factor : variable
+At line no: 3 unary_expression : factor
+At line no: 3 term : unary_expression
+At line no: 3 simple_expression : term 
+At line no: 3 rel_expression : simple_expression
+At line no: 3 logic_expression : rel_expression
+At line no: 3 expression : logic_expression
+At line no: 1 type_specifier : INT 
+At line no: 1 type_specifier : INT 
+At line no: 1 parameter_list  : type_specifier ID
+Entered into new scope ScopeTable with id 2
+At line no: 2 variable : ID
+At line no: 2 variable : ID
+At line no: 2 factor : variable
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : term 
+At line no: 2 factor : CONST_INT
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : simple_expression ADDOP term
+At line no: 2 rel_expression : simple_expression
+At line no: 2 logic_expression : rel_expression
+At line no: 2 expression : variable ASSIGNOP logic_expression
+At line no: 2 expression_statement : expression SEMICOLON
+At line no: 2 statement : expression_statement
+At line no: 2 statements : statement
+At line no: 3 variable : ID
+At line no: 3 factor : variable
+At line no: 3 unary_expression : factor
+At line no: 3 term : unary_expression
+At line no: 3 simple_expression : term 
+At line no: 3 rel_expression : simple_expression
+At line no: 3 logic_expression : rel_expression
+At line no: 3 expression : logic_expression
+At line no: 1 type_specifier : INT 
+At line no: 1 type_specifier : INT 
+At line no: 1 parameter_list  : type_specifier ID
+Entered into new scope ScopeTable with id 2
+At line no: 2 variable : ID
+At line no: 2 variable : ID
+At line no: 2 factor : variable
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : term 
+At line no: 2 factor : CONST_INT
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : simple_expression ADDOP term
+At line no: 2 rel_expression : simple_expression
+At line no: 2 logic_expression : rel_expression
+At line no: 2 expression : variable ASSIGNOP logic_expression
+At line no: 2 expression_statement : expression SEMICOLON
+At line no: 2 statement : expression_statement
+At line no: 2 statements : statement
+At line no: 3 variable : ID
+At line no: 3 factor : variable
+At line no: 3 unary_expression : factor
+At line no: 3 term : unary_expression
+At line no: 3 simple_expression : term 
+At line no: 3 rel_expression : simple_expression
+At line no: 3 logic_expression : rel_expression
+At line no: 3 expression : logic_expression
+At line no: 1 type_specifier : INT 
+At line no: 1 type_specifier : INT 
+At line no: 1 parameter_list  : type_specifier ID
+Entered into new scope ScopeTable with id 2
+At line no: 2 variable : ID
+At line no: 2 variable : ID
+At line no: 2 factor : variable
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : term 
+At line no: 2 factor : CONST_INT
+At line no: 2 unary_expression : factor
+At line no: 2 term : unary_expression
+At line no: 2 simple_expression : simple_expression ADDOP term
+At line no: 2 rel_expression : simple_expression
+At line no: 2 logic_expression : rel_expression
+At line no: 2 expression : variable ASSIGNOP logic_expression
+At line no: 2 expression_statement : expression SEMICOLON
+At line no: 2 statement : expression_statement
+At line no: 2 statements : statement
+At line no: 3 variable : ID
+At line no: 3 factor : variable
+At line no: 3 unary_expression : factor
+At line no: 3 term : unary_expression
+At line no: 3 simple_expression : term 
+At line no: 3 rel_expression : simple_expression
+At line no: 3 logic_expression : rel_expression
+At line no: 3 expression : logic_expression
+At line no: 3 statement : RETURN expression SEMICOLON
+At line no: 3 statements : statements statement
+At line no: 4 compound_statement : LCURL statements RCURL
+ Scope : 2
+0 --> 
+1 --> 
+2 --> <a,ID> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ Scope : 1
+0 --> <foo,ID> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ScopeTable with id 2 removed
+At line no: 4 func_definition : type_specifier ID LPAREN parameter_list RPAREN compound_statement
+At line no: 4 unit : func_definition 
+
+At line no: 4 program : unit 
+
+At line no: 6 type_specifier : INT 
+Entered into new scope ScopeTable with id 3
+At line no: 7 type_specifier : INT 
+At line no: 7 declaration_list : ID
+At line no: 7 var_declaration : type_specifier declaration_list SEMICOLON 
+At line no: 7 statement : var_declaration
+At line no: 7 statements : statement
+At line no: 8 variable : ID
+At line no: 8 factor : CONST_INT
+At line no: 8 unary_expression : factor
+At line no: 8 term : unary_expression
+At line no: 8 simple_expression : term 
+At line no: 8 rel_expression : simple_expression
+At line no: 8 logic_expression : rel_expression
+At line no: 8 arguments : logic_expression
+At line no: 8 argument_list : arguments
+At line no: 8 factor : variable
+At line no: 8 unary_expression : factor
+At line no: 8 term : unary_expression
+At line no: 8 simple_expression : term 
+At line no: 8 rel_expression : simple_expression
+At line no: 8 logic_expression : rel_expression
+At line no: 8 expression : variable ASSIGNOP logic_expression
+At line no: 8 expression_statement : expression SEMICOLON
+At line no: 8 statement : expression_statement
+At line no: 8 statements : statements statement
+At line no: 9 compound_statement : LCURL statements RCURL
+ Scope : 3
+0 --> 
+1 --> 
+2 --> <a,ID> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ Scope : 1
+0 --> <foo,ID> 
+1 --> 
+2 --> 
+3 --> <main,ID> 
+4 --> 
+5 --> 
+6 --> 
+ScopeTable with id 3 removed
+At line no: 9 func_definition : type_specifier ID LPAREN RPAREN compound_statement
+At line no: 9 unit : func_definition 
+
+At line no: 9 program : program unit 
+
+ Scope : 1
+0 --> <foo,ID> 
+1 --> 
+2 --> 
+3 --> <main,ID> 
+4 --> 
+5 --> 
+6 --> 

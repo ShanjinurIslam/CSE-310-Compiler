@@ -1,0 +1,109 @@
+At line no: 1 type_specifier : INT 
+
+int
+
+At line no: 1 type_specifier : INT 
+
+int
+
+At line no: 1 parameter_list  : type_specifier ID
+
+int a
+
+Entered into new scope ScopeTable with id 2
+At line no: 2 variable : ID
+
+a
+
+At line no: 2 factor : variable
+
+a
+
+At line no: 2 unary_expression : factor
+
+a
+
+At line no: 2 term : unary_expression
+
+a
+
+At line no: 2 simple_expression : term 
+
+a
+
+At line no: 2 rel_expression : simple_expression
+
+a
+
+At line no: 2 logic_expression : rel_expression
+
+a
+
+At line no: 2 expression : logic_expression
+
+a
+
+At line no: 2 statement : RETURN expression SEMICOLON
+
+return a ;
+
+At line no: 2 statements : statement
+
+return a ;
+
+
+At line no: 3 compound_statement : LCURL statements RCURL
+
+{
+return a ;
+}
+
+
+ Scope : 2
+0 --> 
+1 --> 
+2 --> <a,ID> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ Scope : 1
+0 --> 
+1 --> 
+2 --> <func,ID> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+ScopeTable with id 2 removed
+At line no: 3 func_definition : type_specifier ID LPAREN parameter_list RPAREN compound_statement
+
+int func(int a){
+return a ;
+}
+
+
+At line no: 3 unit : func_definition 
+
+int func(int a){
+return a ;
+}
+
+
+
+At line no: 3 program : unit 
+
+int func(int a){
+return a ;
+}
+
+
+
+ Scope : 1
+0 --> 
+1 --> 
+2 --> <func,ID> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
